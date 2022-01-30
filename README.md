@@ -1,4 +1,4 @@
-#  Dsafio de projeto sobre Git/Gitub da Dio
+Dsafio de projeto sobre Git/Gitub da Dio
 Repositório criado para o desafio de projeto
 
 ## Links útei 
